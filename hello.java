@@ -1,6 +1,6 @@
 public class HelloBangalore {
     public static void main(String[] args) {
-        System.out.println("Sunday");
+        System.out.println("Tuesday");
     }
 }
 
